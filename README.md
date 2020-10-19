@@ -1,4 +1,5 @@
 # HTML
+## The major points of HTML are given below:
 - HTML stands for HyperText Markup Language.
 - HTML is used to create web pages and web applications.
 - HTML is widely used language on the web.
